@@ -6420,9 +6420,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-text-loop-next@workspace:.":
+"react-text-loop-next-18@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-text-loop-next@workspace:."
+  resolution: "react-text-loop-next-18@workspace:."
   dependencies:
     "@commitlint/cli": ^17.1.2
     "@commitlint/config-conventional": ^17.1.0
